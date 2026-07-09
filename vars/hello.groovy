@@ -1,3 +1,3 @@
 def call() {
-echo "hello Dosto to Project"
+echo "Hello from Jenkins Shared Library!"
 }
